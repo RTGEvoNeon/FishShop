@@ -1,6 +1,6 @@
 <?
 $arTemplate = array (
-  'NAME' => 'FishShop',
+  'NAME' => 'FishShopDetail',
   'DESCRIPTION' => '',
   'SORT' => '',
   'TYPE' => '',
